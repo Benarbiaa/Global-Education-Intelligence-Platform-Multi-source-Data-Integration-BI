@@ -1,0 +1,214 @@
+country_name,country_code,capital_city,rural_population_percent,urban_population_percent,country_id
+Antigua and Barbuda,ATG,Saint John's,75.662,24.338,1
+Bhutan,BTN,Thimphu,55.0,45.0,2
+Italy,ITA,Rome,27.708,72.292,3
+Tuvalu,TUV,Funafuti,33.072,66.928,4
+Australia,AUS,Canberra,13.25,86.75,5
+Belize,BLZ,Belmopan,53.162,46.838,6
+Vanuatu,VUT,Port Vila,73.853,26.147,7
+Belarus,BLR,Minsk,18.875,81.125,8
+Mauritius,MUS,Port Louis,59.056,40.944,9
+Laos,LAO,Vientiane,61.094,38.906,10
+Senegal,SEN,Dakar,49.92,50.08,11
+Turkey,TUR,Ankara,22.107,77.893,12
+Bolivia,BOL,Sucre,28.455,71.545,13
+Sri Lanka,LKA,Sri Jayawardenepura Kotte,80.584,19.416,14
+China,CHN,Beijing,34.456,65.544,15
+Sudan,SDN,Khartoum,63.248,36.752,16
+Turks and Caicos Islands,TCA,Cockburn Town,5.56699999999999,94.433,17
+Curaçao,CUW,Willemstad,10.967,89.033,18
+Botswana,BWA,Gaborone,26.51,73.49,19
+Benin,BEN,Porto-Novo,49.331,50.669,20
+Lithuania,LTU,Vilnius,31.064,68.936,21
+British Virgin Islands,VGB,Road Town,49.829,50.171,22
+Burundi,BDI,Gitega,84.84,15.16,23
+Ireland,IRL,Dublin,35.24,64.76,24
+Solomon Islands,SLB,Honiara,73.512,26.488,25
+Bermuda,BMU,Hamilton,0.0,100.0,26
+Finland,FIN,Helsinki,14.128,85.872,27
+Peru,PER,Lima,20.861,79.139,28
+Bangladesh,BGD,Dhaka,58.77,41.23,29
+Denmark,DNK,Copenhagen,11.374,88.626,30
+Saint Vincent and the Grenadines,VCT,Kingstown,45.275,54.725,31
+Dominican Republic,DOM,Santo Domingo,14.989,85.011,32
+Moldova,MDA,Chișinău,56.401,43.599,33
+Bulgaria,BGR,Sofia,22.963,77.037,34
+Costa Rica,CRI,San José,16.833,83.167,35
+Namibia,NAM,Windhoek,44.205,55.795,36
+Luxembourg,LUX,Luxembourg,7.73399999999999,92.266,37
+Russia,RUS,Moscow,24.452,75.548,38
+United Arab Emirates,ARE,Abu Dhabi,11.992,88.008,39
+Sint Maarten,SXM,Philipsburg,0.0,100.0,40
+Bahamas,BHS,Nassau,16.236,83.764,41
+Japan,JPN,Tokyo,7.866,92.134,42
+Nigeria,NGA,Abuja,44.97,55.03,43
+Ghana,GHA,Accra,40.146,59.854,44
+Sierra Leone,SLE,Freetown,55.221,44.779,45
+Albania,ALB,Tirana,34.62,65.38,46
+Tonga,TON,Nuku'alofa,76.79,23.21,47
+Turkmenistan,TKM,Ashgabat,45.476,54.524,48
+Djibouti,DJI,Djibouti,21.268,78.732,49
+Central African Republic,CAF,Bangui,55.87,44.13,50
+Lebanon,LBN,Beirut,10.397,89.603,51
+Latvia,LVA,Riga,31.185,68.815,52
+Gambia,GMB,Banjul,34.92,65.08,53
+Honduras,HND,Tegucigalpa,39.182,60.818,54
+Mauritania,MRT,Nouakchott,41.542,58.458,55
+French Polynesia,PYF,Papeetē,37.58,62.42,56
+Togo,TGO,Lomé,54.936,45.064,57
+Belgium,BEL,Brussels,1.776,98.224,58
+Zambia,ZMB,Lusaka,53.086,46.914,59
+Cayman Islands,CYM,George Town,0.0,100.0,60
+Madagascar,MDG,Antananarivo,58.769,41.231,61
+Montenegro,MNE,Podgorica,31.16,68.84,62
+South Korea,KOR,Seoul,18.502,81.498,63
+Ethiopia,ETH,Addis Ababa,76.339,23.661,64
+Mongolia,MNG,Ulan Bator,30.737,69.263,65
+Slovakia,SVK,Bratislava,45.828,54.172,66
+Cuba,CUB,Havana,22.343,77.657,67
+Guatemala,GTM,Guatemala City,46.458,53.542,68
+Norway,NOR,Oslo,15.682,84.318,69
+Grenada,GRD,St. George's,62.733,37.267,70
+Chile,CHL,Santiago,11.884,88.116,71
+Colombia,COL,Bogotá,17.348,82.652,72
+Saudi Arabia,SAU,Riyadh,14.829,85.171,73
+Israel,ISR,Jerusalem,7.054,92.946,74
+Germany,DEU,Berlin,22.105,77.895,75
+New Zealand,NZL,Wellington,12.909,87.091,76
+Greenland,GRL,Nuuk,11.851,88.149,77
+Kyrgyzstan,KGZ,Bishkek,61.834,38.166,78
+El Salvador,SLV,San Salvador,24.004,75.996,79
+Faroe Islands,FRO,Tórshavn,56.794,43.206,80
+Palau,PLW,Ngerulmud,17.161,82.839,81
+Malta,MLT,Valletta,4.994,95.006,82
+Syria,SYR,Damascus,41.956,58.044,83
+Timor-Leste,TLS,Dili,67.158,32.842,84
+Croatia,HRV,Zagreb,41.055,58.945,85
+Papua New Guinea,PNG,Port Moresby,86.12,13.88,86
+Netherlands,NLD,Amsterdam,6.547,93.453,87
+Liberia,LBR,Monrovia,45.923,54.077,88
+Somalia,SOM,Mogadishu,51.481,48.519,89
+Venezuela,VEN,Caracas,11.495,88.505,90
+Haiti,HTI,Port-au-Prince,39.528,60.472,91
+Algeria,DZA,Algiers,24.252,75.748,92
+Northern Mariana Islands,MNP,Saipan,7.82899999999999,92.171,93
+Aruba,ABW,Oranjestad,55.526,44.474,94
+Egypt,EGY,Cairo,56.742,43.258,95
+Malawi,MWI,Lilongwe,81.402,18.598,96
+Equatorial Guinea,GNQ,Malabo,25.126,74.874,97
+United States Virgin Islands,VIR,Charlotte Amalie,3.68600000000001,96.314,98
+Ecuador,ECU,Quito,34.971,65.029,99
+Uzbekistan,UZB,Tashkent,49.374,50.626,100
+Gabon,GAB,Libreville,8.693,91.307,101
+South Sudan,SSD,Juba,78.44,21.56,102
+Iran,IRN,Tehran,22.302,77.698,103
+Kazakhstan,KAZ,Astana,41.613,58.387,104
+Nicaragua,NIC,Managua,39.845,60.155,105
+Iceland,ISL,Reykjavik,5.90600000000001,94.094,106
+Slovenia,SVN,Ljubljana,43.562,56.438,107
+Cameroon,CMR,Yaoundé,40.108,59.892,108
+Argentina,ARG,Buenos Aires,7.42100000000001,92.579,109
+Azerbaijan,AZE,Baku,42.003,57.997,110
+Uganda,UGA,Kampala,72.611,27.389,111
+Niger,NER,Niamey,82.768,17.232,112
+Myanmar,MMR,Naypyidaw,67.53,32.47,113
+Poland,POL,Warsaw,39.67,60.33,114
+Jordan,JOR,Amman,7.794,92.206,115
+Hong Kong,HKG,City of Victoria,0.0,100.0,116
+DR Congo,COD,Kinshasa,51.945,48.055,117
+Eritrea,ERI,Asmara,56.089,43.911,118
+Kiribati,KIR,South Tarawa,41.552,58.448,119
+Marshall Islands,MHL,Majuro,20.792,79.208,120
+Burkina Faso,BFA,Ouagadougou,66.834,33.166,121
+Zimbabwe,ZWE,Harare,67.33,32.67,122
+Kenya,KEN,Nairobi,69.951,30.049,123
+Comoros,COM,Moroni,69.582,30.418,124
+Gibraltar,GIB,Gibraltar,0.0,100.0,125
+Brunei,BRN,Bandar Seri Begawan,20.561,79.439,126
+Sweden,SWE,Stockholm,11.024,88.976,127
+Lesotho,LSO,Maseru,69.103,30.897,128
+Isle of Man,IMN,Douglas,46.292,53.708,129
+Micronesia,FSM,Palikir,76.445,23.555,130
+Tanzania,TZA,Dodoma,61.864,38.136,131
+Cape Verde,CPV,Praia,31.588,68.412,132
+Afghanistan,AFG,Kabul,72.735,27.265,133
+Andorra,AND,Andorra la Vella,12.253,87.747,134
+Greece,GRC,Athens,19.016,80.984,135
+Vietnam,VNM,Hanoi,59.805,40.195,136
+Iraq,IRQ,Baghdad,28.147,71.853,137
+Libya,LBY,Tripoli,18.093,81.907,138
+Portugal,PRT,Lisbon,31.577,68.423,139
+Pakistan,PAK,Islamabad,61.635,38.365,140
+Maldives,MDV,Malé,57.593,42.407,141
+Morocco,MAR,Rabat,34.357,65.643,142
+Bosnia and Herzegovina,BIH,Sarajevo,49.292,50.708,143
+Samoa,WSM,Apia,82.58,17.42,144
+Palestine,PSE,Ramallah,22.123,77.877,145
+Oman,OMN,Muscat,11.002,88.998,146
+Bahrain,BHR,Manama,10.001,89.999,147
+United States,USA,"Washington, D.C.",16.485,83.515,148
+Puerto Rico,PRI,San Juan,6.336,93.664,149
+North Macedonia,MKD,Skopje,40.132,59.868,150
+Tunisia,TUN,Tunis,29.12,70.88,151
+Trinidad and Tobago,TTO,Port of Spain,46.438,53.562,152
+Estonia,EST,Tallinn,29.981,70.019,153
+Singapore,SGP,Singapore,0.0,100.0,154
+Panama,PAN,Panama City,30.112,69.888,155
+Switzerland,CHE,Bern,25.673,74.327,156
+Uruguay,URY,Montevideo,4.148,95.852,157
+Tajikistan,TJK,Dushanbe,71.477,28.523,158
+South Africa,ZAF,Pretoria,30.702,69.298,159
+Liechtenstein,LIE,Vaduz,85.293,14.707,160
+Brazil,BRA,Brasília,11.984,88.016,161
+Armenia,ARM,Yerevan,36.071,63.929,162
+Georgia,GEO,Tbilisi,38.838,61.162,163
+Qatar,QAT,Doha,0.613,99.387,164
+Dominica,DMA,Roseau,27.688,72.312,165
+Ukraine,UKR,Kyiv,29.716,70.284,166
+Guinea,GIN,Conakry,61.483,38.517,167
+Czechia,CZE,Prague,25.262,74.738,168
+Austria,AUT,Vienna,40.181,59.819,169
+Saint Kitts and Nevis,KNA,Basseterre,68.779,31.221,170
+Saint Lucia,LCA,Castries,80.694,19.306,171
+Yemen,YEM,Sana'a,59.523,40.477,172
+Rwanda,RWA,Kigali,81.919,18.081,173
+Monaco,MCO,Monaco,0.0,100.0,174
+São Tomé and Príncipe,STP,São Tomé,22.986,77.014,175
+Republic of the Congo,COG,Brazzaville,30.362,69.638,176
+Paraguay,PRY,Asunción,36.511,63.489,177
+Mozambique,MOZ,Maputo,60.674,39.326,178
+France,FRA,Paris,17.956,82.044,179
+Eswatini,SWZ,Mbabane,74.987,25.013,180
+Barbados,BRB,Bridgetown,68.452,31.548,181
+Spain,ESP,Madrid,18.198,81.802,182
+Thailand,THA,Bangkok,45.68,54.32,183
+Guinea-Bissau,GNB,Bissau,54.107,45.893,184
+Angola,AGO,Luanda,30.719,69.281,185
+India,IND,New Delhi,63.133,36.867,186
+New Caledonia,NCL,Nouméa,26.894,73.106,187
+Seychelles,SYC,Victoria,40.758,59.242,188
+United Kingdom,GBR,London,15.116,84.884,189
+Fiji,FJI,Suva,40.808,59.192,190
+San Marino,SMR,City of San Marino,2.068,97.932,191
+Mali,MLI,Bamako,53.066,46.934,192
+Canada,CAN,Ottawa,18.02,81.98,193
+Jamaica,JAM,Kingston,42.238,57.762,194
+Nauru,NRU,Yaren,0.0,100.0,195
+Indonesia,IDN,Jakarta,40.796,59.204,196
+Guam,GUM,Hagåtña,4.76000000000001,95.24,197
+Ivory Coast,CIV,Yamoussoukro,46.356,53.644,198
+Kuwait,KWT,Kuwait City,0.0,100.0,199
+Philippines,PHL,Manila,51.386,48.614,200
+Guyana,GUY,Georgetown,72.684,27.316,201
+Hungary,HUN,Budapest,26.821,73.179,202
+Mexico,MEX,Mexico City,18.138,81.862,203
+North Korea,PRK,Pyongyang,36.497,63.503,204
+Romania,ROU,Bucharest,45.12,54.88,205
+Suriname,SUR,Paramaribo,33.467,66.533,206
+American Samoa,ASM,Pago Pago,12.716,87.284,207
+Nepal,NPL,Kathmandu,77.634,22.366,208
+Chad,TCD,N'Djamena,75.309,24.691,209
+Serbia,SRB,Belgrade,42.629,57.371,210
+Cambodia,KHM,Phnom Penh,73.965,26.035,211
+Malaysia,MYS,Kuala Lumpur,20.799,79.201,212
+Cyprus,CYP,Nicosia,32.918,67.082,213

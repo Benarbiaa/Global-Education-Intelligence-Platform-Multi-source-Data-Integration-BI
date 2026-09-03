@@ -1,0 +1,706 @@
+university_ranking_id,university_name,qs_rank,overall_score,country_id,year
+1,Massachusetts Institute of Technology (MIT),1.0,100.0,148,2024
+2,Imperial College London,2.0,99.4,189,2024
+3,Stanford University,3.0,98.9,148,2024
+4,University of Oxford,4.0,97.9,189,2024
+5,Harvard University,5.0,97.7,148,2024
+6,University of Cambridge,6.0,97.2,189,2024
+7,ETH Zurich (Swiss Federal Institute of Technology),7.0,96.7,156,2024
+8,National University of Singapore (NUS),8.0,95.9,154,2024
+9,UCL (University College London),9.0,95.8,189,2024
+10,California Institute of Technology (Caltech),10.0,94.3,148,2024
+11,The University of Hong Kong,11.0,94.2,15,2024
+12,"Nanyang Technological University, Singapore (NTU Singapore)",12.0,93.7,154,2024
+13,University of Chicago,13.0,93.0,148,2024
+14,Peking University,14.0,92.6,15,2024
+15,University of Pennsylvania,15.0,92.5,148,2024
+16,Cornell University,16.0,91.6,148,2024
+17,Tsinghua University,17.0,91.2,15,2024
+18,"University of California, Berkeley (UCB)",17.0,91.2,148,2024
+19,The University of Melbourne,19.0,90.8,5,2024
+20,The University of New South Wales,20.0,90.7,5,2024
+21,Yale University,21.0,90.4,148,2024
+22,École Polytechnique Fédérale de Lausanne,22.0,90.2,156,2024
+23,Technical University of Munich,22.0,90.2,75,2024
+24,Johns Hopkins University,24.0,89.7,148,2024
+25,Princeton University,25.0,89.4,148,2024
+26,The University of Sydney,25.0,89.4,5,2024
+27,McGill University,27.0,88.9,193,2024
+28,PSL University,28.0,88.6,179,2024
+29,University of Toronto,29.0,88.5,193,2024
+30,Fudan University,30.0,88.4,15,2024
+31,King's College London (KCL),31.0,88.3,189,2024
+32,Australian National University,32.0,87.4,5,2024
+33,The Chinese University of Hong Kong,32.0,87.4,15,2024
+34,University of Edinburgh,34.0,87.2,189,2024
+35,The University of Manchester,35.0,86.4,189,2024
+36,Monash University,36.0,85.8,5,2024
+37,The University of Tokyo,36.0,85.8,42,2024
+38,Columbia University,38.0,85.6,148,2024
+39,Seoul National University,38.0,85.6,176,2024
+40,University of British Columbia,40.0,85.5,193,2024
+41,Institut Polytechnique de Paris,41.0,85.4,179,2024
+42,Northwestern University,42.0,85.1,148,2024
+43,The University of Queensland,42.0,85.1,5,2024
+44,The Hong Kong University of Science and Technology,44.0,84.8,15,2024
+45,University of Michigan-Ann Arbor,45.0,84.7,148,2024
+46,"University of California, Los Angeles (UCLA)",46.0,84.4,148,2024
+47,Delft University of Technology,47.0,84.3,87,2024
+48,Shanghai Jiao Tong University,47.0,84.3,15,2024
+49,Zhejiang University,49.0,84.0,15,2024
+50,Yonsei University,50.0,82.9,176,2024
+51,University of Bristol,51.0,82.5,189,2024
+52,Carnegie Mellon University,52.0,82.3,148,2024
+53,The University of Amsterdam,53.0,81.5,87,2024
+54,The Hong Kong Polytechnic University,54.0,81.2,15,2024
+55,New York University (NYU),55.0,81.1,148,2024
+56,London School of Economics and Political Science (LSE),56.0,80.5,189,2024
+57,Kyoto University,57.0,80.2,42,2024
+58,Ludwig-Maximilians-Universität München,58.0,80.1,75,2024
+59,Universiti Malaya (UM),58.0,80.1,212,2024
+60,KU Leuven,60.0,79.7,58,2024
+61,Korea University,61.0,79.6,176,2024
+62,Duke University,62.0,79.0,148,2024
+63,City University of Hong Kong,63.0,78.9,15,2024
+64,National Taiwan University (NTU),63.0,78.9,183,2024
+65,The University of Auckland,65.0,77.5,76,2024
+66,"University of California, San Diego (UCSD)",66.0,76.9,148,2024
+67,King Fahd University of Petroleum & Minerals,67.0,76.5,73,2024
+68,University of Texas at Austin,68.0,76.4,148,2024
+69,Brown University,69.0,76.2,148,2024
+70,Université Paris-Saclay,70.0,75.9,179,2024
+71,University of Illinois at Urbana-Champaign,70.0,75.9,148,2024
+72,Lund University,72.0,75.7,127,2024
+73,Sorbonne University (merged from Paris IV & UPMC),72.0,75.7,179,2024
+74,The University of Warwick,74.0,75.2,189,2024
+75,"Trinity College Dublin, The University of Dublin",75.0,73.9,24,2024
+76,University of Birmingham,76.0,73.8,189,2024
+77,The University of Western Australia,77.0,73.7,5,2024
+78,KTH Royal Institute of Technology,78.0,73.6,127,2024
+79,University of Glasgow,79.0,73.4,189,2024
+80,Ruprecht-Karls-Universität Heidelberg,80.0,73.0,75,2024
+81,University of Washington,81.0,72.7,148,2024
+82,Adelaide University,82.0,72.6,5,2024
+83,Pennsylvania State University,82.0,72.6,148,2024
+84,Universidad de Buenos Aires,84.0,72.3,109,2024
+85,Tokyo Institute of Technology,85.0,72.1,42,2024
+86,University of Leeds,86.0,72.0,189,2024
+87,University of Southampton,87.0,71.2,189,2024
+88,Boston University,88.0,71.1,148,2024
+89,Freie Universität Berlin,88.0,71.1,75,2024
+90,Purdue University,88.0,71.1,148,2024
+91,The University of Osaka,91.0,71.0,42,2024
+92,The University of Sheffield,92.0,70.9,189,2024
+93,Uppsala University,93.0,70.3,127,2024
+94,Durham University,94.0,70.1,189,2024
+95,University of Alberta,94.0,70.1,193,2024
+96,University of Technology Sydney,96.0,69.9,5,2024
+97,The University of Nottingham,97.0,69.4,189,2024
+98,Karlsruhe Institute of Technology (KIT),98.0,69.1,75,2024
+99,Politecnico di Milano,98.0,69.1,3,2024
+100,University of Zurich (UZH),100.0,68.5,156,2024
+101,University of Copenhagen,101.0,68.4,30,2024
+102,Pohang University of Science And Technology (POSTECH),102.0,67.9,176,2024
+103,Nanjing University,103.0,67.7,15,2024
+104,Utrecht University,103.0,67.7,87,2024
+105,Lomonosov Moscow State University,105.0,67.6,38,2024
+106,Rheinisch-Westfälische Technische Hochschule Aachen,105.0,67.6,75,2024
+107,Technical University of Denmark,107.0,67.5,30,2024
+108,Universidade de São Paulo (USP),108.0,67.3,161,2024
+109,Tohoku University,109.0,66.7,42,2024
+110,Queen Mary University of London (QMUL),110.0,66.6,189,2024
+111,University of Wisconsin-Madison,110.0,66.6,148,2024
+112,Qatar University,112.0,66.5,164,2024
+113,University of St Andrews,113.0,66.4,189,2024
+114,Aalto University,114.0,66.3,27,2024
+115,"University of California, Davis",114.0,66.3,148,2024
+116,Pontificia Universidad Católica de Chile,116.0,66.1,71,2024
+117,University of Helsinki,116.0,66.1,27,2024
+118,University College Dublin,118.0,66.0,24,2024
+119,Leiden University,119.0,65.7,87,2024
+120,Rice University,119.0,65.7,148,2024
+121,University of Oslo,119.0,65.7,69,2024
+122,University of Waterloo,119.0,65.7,193,2024
+123,Georgia Institute of Technology,123.0,65.5,148,2024
+124,Indian Institute of Technology Delhi (IITD),123.0,65.5,186,2024
+125,RMIT University,125.0,65.3,5,2024
+126,Sungkyunkwan University,126.0,65.2,176,2024
+127,Universiti Kebangsaan Malaysia (UKM),126.0,65.2,212,2024
+128,Sapienza University of Rome,128.0,64.9,3,2024
+129,Indian Institute of Technology Bombay (IITB),129.0,64.8,186,2024
+130,Humboldt-Universität zu Berlin,130.0,64.5,75,2024
+131,Aarhus University,131.0,64.3,30,2024
+132,University of Bath,132.0,64.2,189,2024
+133,University of Science and Technology of China,132.0,64.2,15,2024
+134,Universiti Putra Malaysia (UPM),134.0,64.1,212,2024
+135,Universiti Sains Malaysia (USM),134.0,64.1,212,2024
+136,Universidad Nacional Autónoma de México (UNAM),136.0,64.0,203,2024
+137,Newcastle University,137.0,63.9,189,2024
+138,Alma Mater Studiorum - University of Bologna,138.0,63.3,3,2024
+139,Macquarie University,138.0,63.3,5,2024
+140,Eindhoven University of Technology,140.0,63.2,87,2024
+141,Erasmus University Rotterdam,140.0,63.2,87,2024
+142,"University of North Carolina, Chapel Hill",140.0,63.2,148,2024
+143,King Saud University,143.0,63.1,73,2024
+144,Texas A&M University,144.0,63.0,148,2024
+145,Technische Universität Berlin,145.0,62.8,75,2024
+146,University of Southern California,146.0,62.6,148,2024
+147,Stockholm University,147.0,62.5,127,2024
+148,University of Groningen,147.0,62.5,87,2024
+149,University of Liverpool,147.0,62.5,189,2024
+150,University of Cape Town,150.0,62.3,159,2024
+151,Western University,151.0,62.0,193,2024
+152,University of Vienna,152.0,61.9,169,2024
+153,Universiti Teknologi Malaysia (UTM),153.0,61.6,212,2024
+154,Wageningen University & Research,153.0,61.6,87,2024
+155,University of Exeter,155.0,61.5,189,2024
+156,University of Geneva,155.0,61.5,156,2024
+157,Lancaster University,157.0,61.4,189,2024
+158,University of Basel,158.0,61.3,156,2024
+159,Hanyang University,159.0,61.2,176,2024
+160,University of Barcelona,160.0,61.0,182,2024
+161,Michigan State University,161.0,60.9,148,2024
+162,Ghent University,162.0,60.8,58,2024
+163,King Abdul Aziz University (KAU),163.0,60.7,73,2024
+164,Nagoya University,164.0,60.3,42,2024
+165,Chalmers University of Technology,165.0,60.2,127,2024
+166,Al-Farabi Kazakh National University,166.0,59.8,104,2024
+167,Washington University in St. Louis,167.0,59.6,148,2024
+168,University of Montreal,168.0,59.5,193,2024
+169,University of York,169.0,59.4,189,2024
+170,Hokkaido University,170.0,59.3,42,2024
+171,Kyushu University,170.0,59.3,42,2024
+172,Universitat Autónoma de Barcelona,172.0,59.2,182,2024
+173,Arizona State University,173.0,59.1,148,2024
+174,McMaster University,173.0,59.1,193,2024
+175,Universidad de Chile,173.0,59.1,71,2024
+176,National Tsing Hua University,176.0,59.0,183,2024
+177,Khalifa University of Science and Technology,177.0,58.8,39,2024
+178,Tongji University,177.0,58.8,15,2024
+179,"University of California, Santa Barbara (UCSB)",179.0,58.7,148,2024
+180,Indian Institute of Technology Madras (IITM),180.0,58.4,186,2024
+181,Cardiff University,181.0,57.8,189,2024
+182,Emory University,182.0,57.7,148,2024
+183,Curtin University,183.0,57.6,5,2024
+184,University of Bern,184.0,57.5,156,2024
+185,University of Wollongong,184.0,57.5,5,2024
+186,Wuhan University,186.0,57.3,15,2024
+187,Tecnológico de Monterrey (ITESM),187.0,57.1,203,2024
+188,University Complutense Madrid,187.0,57.1,182,2024
+189,UNIVERSITAS INDONESIA,189.0,57.0,196,2024
+190,Ohio State University,190.0,56.9,148,2024
+191,"Queen's University, Ontario",191.0,56.8,193,2024
+192,Université Catholique de Louvain (UCL),191.0,56.8,58,2024
+193,Universität Hamburg,193.0,56.5,75,2024
+194,University of Reading,194.0,56.2,189,2024
+195,Vrije Universiteit Amsterdam,194.0,56.2,87,2024
+196,Waseda University,196.0,56.1,42,2024
+197,University of Otago,197.0,55.8,76,2024
+198,Vienna University of Technology,197.0,55.8,169,2024
+199,National Yang Ming Chiao Tung University,199.0,55.7,183,2024
+200,Queen's University Belfast,199.0,55.7,189,2024
+201,Universität Freiburg,201.0,55.6,75,2024
+202,University of Gothenburg,202.0,55.5,127,2024
+203,National Cheng Kung University (NCKU),203.0,55.2,183,2024
+204,University of Twente,203.0,55.2,87,2024
+205,Ecole Normale Supérieure de Lyon,205.0,55.1,179,2024
+206,Universidad Autónoma de Madrid,206.0,55.0,182,2024
+207,Deakin University,207.0,54.9,5,2024
+208,Rheinische Friedrich-Wilhelms-Universität Bonn,207.0,54.9,75,2024
+209,"University of Maryland, College Park",207.0,54.9,148,2024
+210,University of Minnesota (System),210.0,54.8,148,2024
+211,University of Calgary,211.0,54.7,193,2024
+212,Universidad de Los Andes Colombia,212.0,54.6,72,2024
+213,University of Florida,212.0,54.6,148,2024
+214,University of Lausanne,212.0,54.6,156,2024
+215,Eberhard Karls Universität Tübingen,215.0,54.5,75,2024
+216,Indian Institute of Technology Kharagpur (IITKGP),215.0,54.5,186,2024
+217,Keio University,215.0,54.5,42,2024
+218,Technische Universität Dresden,218.0,54.3,75,2024
+219,Indian Institute of Science (IISc) Bangalore,219.0,54.2,186,2024
+220,University of Ottawa,219.0,54.2,193,2024
+221,Chulalongkorn University,221.0,53.9,183,2024
+222,Indian Institute of Technology Kanpur (IITK),222.0,53.7,186,2024
+223,Tel Aviv University,223.0,53.6,74,2024
+224,Universitas Gadjah Mada,224.0,53.5,196,2024
+225,Loughborough University,225.0,53.3,189,2024
+226,Queensland University of Technology,226.0,53.2,5,2024
+227,The University of Newcastle,227.0,53.1,5,2024
+228,Université Libre de Bruxelles (ULB),227.0,53.1,58,2024
+229,United Arab Emirates University,229.0,53.0,39,2024
+230,Massey University,230.0,52.9,76,2024
+231,University of Lisbon,230.0,52.9,139,2024
+232,Universität Erlangen-Nürnberg,232.0,52.2,75,2024
+233,La Trobe University,233.0,52.1,5,2024
+234,Universidade Estadual de Campinas (Unicamp),233.0,52.1,161,2024
+235,University of Padova,233.0,52.1,3,2024
+236,University of Rochester,236.0,51.9,148,2024
+237,American University of Beirut (AUB),237.0,51.6,51,2024
+238,University of Porto,237.0,51.6,139,2024
+239,Maastricht University,239.0,51.4,87,2024
+240,Hebrew University of Jerusalem,240.0,51.3,74,2024
+241,Victoria University of Wellington,240.0,51.3,76,2024
+242,Politecnico di Torino,242.0,51.2,3,2024
+243,Georg-August-Universität Göttingen,243.0,51.1,75,2024
+244,Hamad Bin Khalifa University,244.0,50.9,164,2024
+245,Hong Kong Baptist University,244.0,50.9,15,2024
+246,University College Cork,246.0,50.7,24,2024
+247,Beijing Normal University,247.0,50.6,15,2024
+248,Dartmouth College,247.0,50.6,148,2024
+249,"University of Massachusetts, Amherst",247.0,50.6,148,2024
+250,Vanderbilt University,250.0,50.4,148,2024
+251,Universiti Teknologi Petronas (UTP),251.0,50.2,212,2024
+252,University of Strathclyde,251.0,50.2,189,2024
+253,Taylor's University (Malaysia),253.0,50.0,212,2024
+254,Technische Universität Darmstadt,253.0,50.0,75,2024
+255,Bandung Institute of Technology (ITB),255.0,49.9,196,2024
+256,Harbin Institute of Technology,256.0,49.8,15,2024
+257,Tianjin University,257.0,49.7,15,2024
+258,Université Paris 1 Panthéon-Sorbonne,257.0,49.7,179,2024
+259,Beijing Institute of Technology,259.0,49.5,15,2024
+260,Universidad Nacional de Colombia,259.0,49.5,72,2024
+261,University of Canterbury,261.0,49.4,76,2024
+262,University of Aberdeen,262.0,49.3,189,2024
+263,University of Navarra,262.0,49.3,182,2024
+264,University of Surrey,262.0,49.3,189,2024
+265,Charles University,265.0,49.0,168,2024
+266,Universitat Pompeu Fabra,265.0,49.0,182,2024
+267,Norwegian University of Science And Technology,267.0,48.9,69,2024
+268,Griffith University,268.0,48.7,5,2024
+269,Middle East Technical University,269.0,48.5,12,2024
+270,UCSI University,269.0,48.5,212,2024
+271,University of Warsaw,271.0,48.3,114,2024
+272,American University of Sharjah (AUS),272.0,48.2,39,2024
+273,North Carolina State University,272.0,48.2,148,2024
+274,Universität zu Köln,272.0,48.2,75,2024
+275,University of Virginia,275.0,48.1,148,2024
+276,Sun Yat-sen University,276.0,48.0,15,2024
+277,University of Milan,276.0,48.0,3,2024
+278,University of Sussex,278.0,47.9,189,2024
+279,Radboud University Nijmegen,279.0,47.6,87,2024
+280,University of Antwerp,280.0,47.4,58,2024
+281,University of Pittsburgh,281.0,47.3,148,2024
+282,University of Waikato,281.0,47.3,76,2024
+283,Dalhousie University,283.0,47.2,193,2024
+284,University of Galway / Ollscoil na Gaillimhe,284.0,47.1,24,2024
+285,Georgetown University,285.0,47.0,148,2024
+286,University of Macau,285.0,47.0,15,2024
+287,Heriot-Watt University,287.0,46.8,189,2024
+288,Universitas Airlangga,287.0,46.8,196,2024
+289,University of Arizona,287.0,46.8,148,2024
+290,University of Bergen,287.0,46.8,69,2024
+291,University of The Witwatersrand,291.0,46.4,159,2024
+292,Swansea University,292.0,46.2,189,2024
+293,"University of California, Irvine",293.0,46.1,148,2024
+294,Case Western Reserve University,294.0,46.0,148,2024
+295,Swinburne University of Technology,294.0,46.0,5,2024
+296,University of Notre Dame,294.0,46.0,148,2024
+297,Vrije Universiteit Brussel (VUB),294.0,46.0,58,2024
+298,Istanbul Technical University,298.0,45.8,12,2024
+299,University of Colorado Boulder,299.0,45.6,148,2024
+300,Université Paris Cité,300.0,45.5,179,2024
+301,Universidad Carlos III de Madrid,301.0,45.4,182,2024
+302,Stellenbosch University,302.0,45.2,159,2024
+303,Jagiellonian University,303.0,45.1,114,2024
+304,University of Southern Denmark,303.0,45.1,30,2024
+305,Xi'an Jiaotong University,305.0,45.0,15,2024
+306,Aalborg University,306.0,44.9,30,2024
+307,Indiana University Bloomington,306.0,44.9,148,2024
+308,Simon Fraser University,308.0,44.7,193,2024
+309,University of Johannesburg,308.0,44.7,159,2024
+310,"City St George’s, University of London",310.0,44.5,189,2024
+311,Linköping University,310.0,44.5,127,2024
+312,Ulsan National Institute of Science and Technology,310.0,44.5,176,2024
+313,Universität Stuttgart,310.0,44.5,75,2024
+314,University of Miami,314.0,44.3,148,2024
+315,University of Tasmania,314.0,44.3,5,2024
+316,Goethe Universität Frankfurt am Main,316.0,44.0,75,2024
+317,L.N. Gumilyov Eurasian National University,317.0,43.9,104,2024
+318,Universidade Federal do Rio de Janeiro,317.0,43.9,161,2024
+319,Huazhong University of Science and Technology,319.0,43.8,15,2024
+320,Bauman Moscow State Technical University,320.0,43.5,38,2024
+321,Université Grenoble Alpes,321.0,43.4,179,2024
+322,University of Tehran,322.0,43.3,103,2024
+323,Koc University,323.0,43.1,12,2024
+324,Sichuan University,324.0,43.0,15,2024
+325,University of Jordan,324.0,43.0,115,2024
+326,University of Leicester,326.0,42.9,189,2024
+327,Universidade Nova de Lisboa,327.0,42.8,139,2024
+328,Rutgers University – New Brunswick,328.0,42.6,148,2024
+329,University of Delhi,328.0,42.6,186,2024
+330,University of Sharjah,328.0,42.6,39,2024
+331,Kyung Hee University,331.0,42.5,176,2024
+332,Satbayev University (previously Kazakh Technical University named after K.I. Satpaev),331.0,42.5,104,2024
+333,York University,333.0,42.4,193,2024
+334,Indian Institute of Technology Guwahati (IITG),334.0,42.3,186,2024
+335,Sultan Qaboos University,334.0,42.3,146,2024
+336,Tufts University,334.0,42.3,148,2024
+337,Universidad Politécnica de Madrid,334.0,42.3,182,2024
+338,University of Illinois Chicago (UIC),334.0,42.3,148,2024
+339,Indian Institute of Technology Roorkee (IITR),339.0,42.2,186,2024
+340,Shandong University,339.0,42.2,15,2024
+341,Xiamen University,341.0,42.1,15,2024
+342,University of Oulu,342.0,42.0,27,2024
+343,Southern University of Science and Technology (SUSTech),343.0,41.8,15,2024
+344,University of Pisa,343.0,41.8,3,2024
+345,National Taiwan University of Science and Technology (Taiwan Tech),345.0,41.7,183,2024
+346,Pontificia Universidad Católica del Perú (PUCP),345.0,41.7,28,2024
+347,Cairo University,347.0,41.6,95,2024
+348,Tilburg University,347.0,41.6,87,2024
+349,University of Coimbra,347.0,41.6,139,2024
+350,Technion - Israel Institute of Technology,350.0,41.5,74,2024
+351,Universität Innsbruck,350.0,41.5,169,2024
+352,University of Münster,350.0,41.5,75,2024
+353,University of Tsukuba,350.0,41.5,42,2024
+354,Quaid-i-azam University,354.0,41.3,140,2024
+355,Nankai University,355.0,41.2,15,2024
+356,National Technical University of Athens,355.0,41.2,135,2024
+357,Università degli Studi di Roma - Tor Vergata,355.0,41.2,3,2024
+358,George Washington University,358.0,41.1,148,2024
+359,Mahidol University,358.0,41.1,183,2024
+360,University of Victoria,358.0,41.1,193,2024
+361,Virginia Polytechnic Institute (Virginia Tech),358.0,41.1,148,2024
+362,University of Chinese Academy of Sciences (UCAS),362.0,40.9,15,2024
+363,University of Pretoria,362.0,40.9,159,2024
+364,University of Tartu,362.0,40.9,153,2024
+365,University of the Philippines,362.0,40.9,200,2024
+366,University of Turku,366.0,40.6,27,2024
+367,RUDN University,367.0,40.5,38,2024
+368,Sciences Po Paris,367.0,40.5,179,2024
+369,Universiti Brunei Darussalam (UBD),367.0,40.5,126,2024
+370,Daegu Gyeongbuk Institute of Science and Technology (DGIST),370.0,40.4,176,2024
+371,Bogazici University,371.0,40.3,12,2024
+372,National University of Sciences And Technology (NUST) Islamabad,371.0,40.3,140,2024
+373,Pontificia Universidad Javeriana,371.0,40.3,72,2024
+374,Oxford Brookes University,374.0,40.0,189,2024
+375,Saint Petersburg State University,375.0,39.9,38,2024
+376,Sharif University of Technology,375.0,39.9,103,2024
+377,South China University of Technology,377.0,39.8,15,2024
+378,University of Saskatchewan,378.0,39.6,193,2024
+379,University of Liege,379.0,39.5,58,2024
+380,University of Naples - Federico II,379.0,39.5,3,2024
+381,The American University in Cairo,381.0,39.4,95,2024
+382,University of East Anglia (UEA),381.0,39.4,189,2024
+383,University of Luxembourg,381.0,39.4,37,2024
+384,Northeastern University,384.0,39.3,148,2024
+385,Brunel University of London,385.0,39.1,189,2024
+386,Gwangju Institute of Science and Technology (GIST),385.0,39.1,176,2024
+387,Flinders University,387.0,39.0,5,2024
+388,Beihang University (former BUAA),388.0,38.5,15,2024
+389,"Birkbeck College, University of London",388.0,38.5,189,2024
+390,National and Kapodistrian University of Athens,390.0,38.4,135,2024
+391,Abu Dhabi University,391.0,38.3,39,2024
+392,Sejong University,392.0,38.2,176,2024
+393,"Southeast University, China",392.0,38.2,15,2024
+394,Universitat Politècnica de Catalunya,392.0,38.2,182,2024
+395,Aston University,395.0,38.1,189,2024
+396,Ruhr-Universität Bochum,395.0,38.1,75,2024
+397,Lappeenranta-Lahti University of Technology LUT,397.0,37.7,27,2024
+398,University of Kent,397.0,37.7,189,2024
+399,IPB University (aka Bogor Agricultural University),399.0,37.6,196,2024
+400,Western Sydney University,400.0,37.5,5,2024
+401,Umeå University,401.0,37.4,127,2024
+402,University of Granada,401.0,37.4,182,2024
+403,University of Limerick,401.0,37.4,24,2024
+404,Sabanci University,404.0,37.2,12,2024
+405,University of Florence,404.0,37.2,3,2024
+406,Institut National des Sciences Appliquées de Lyon (INSA),406.0,37.1,179,2024
+407,Lincoln University,407.0,37.0,76,2024
+408,University of Turin,408.0,36.9,3,2024
+409,Università  Cattolica del Sacro Cuore,409.0,36.8,3,2024
+410,Auckland University of Technology,410.0,36.7,76,2024
+411,Dublin City University,410.0,36.7,24,2024
+412,Sunway University,410.0,36.7,212,2024
+413,University at Buffalo SUNY,410.0,36.7,148,2024
+414,University of Southern Queensland,410.0,36.7,5,2024
+415,Bilkent University,415.0,36.6,12,2024
+416,Czech Technical University In Prague,416.0,36.5,168,2024
+417,Julius-Maximilians-Universität Würzburg,416.0,36.5,75,2024
+418,Universität Mannheim,416.0,36.5,75,2024
+419,University of Aveiro,419.0,36.4,139,2024
+420,National Taipei University of Technology,420.0,36.3,183,2024
+421,Université de Strasbourg,420.0,36.3,179,2024
+422,Universitat Politecnica de Valencia,422.0,36.2,182,2024
+423,Murdoch University,423.0,36.1,5,2024
+424,Tampere University,423.0,36.1,27,2024
+425,Università  degli Studi di Pavia,423.0,36.1,3,2024
+426,Washington State University,423.0,36.1,148,2024
+427,Graz University of Technology,427.0,36.0,169,2024
+428,Aix-Marseille University,428.0,35.9,179,2024
+429,University of Dundee,428.0,35.9,189,2024
+430,Masaryk University,430.0,35.7,168,2024
+431,Universitat de Valencia,430.0,35.7,182,2024
+432,Université de Montpellier,430.0,35.7,179,2024
+433,East China Normal University,433.0,35.6,15,2024
+434,Leibniz Universität Hannover,433.0,35.6,75,2024
+435,National Taiwan Normal University,435.0,35.4,183,2024
+436,Prince Mohammad Bin Fahd University,436.0,35.2,73,2024
+437,Universitat Ramon Llull,436.0,35.2,182,2024
+438,IE University,438.0,35.1,182,2024
+439,National Sun Yat-sen University,439.0,35.0,183,2024
+440,Ajman University,440.0,34.9,39,2024
+441,James Cook University,440.0,34.9,5,2024
+442,Macau University of Science and Technology,440.0,34.9,15,2024
+443,"National Research University Higher School of Economics (HSE, Moscow)",440.0,34.9,38,2024
+444,Universität Konstanz,440.0,34.9,75,2024
+445,"University of California, Riverside",440.0,34.9,148,2024
+446,Vilnius University,446.0,34.8,21,2024
+447,Belarusian State University,447.0,34.6,8,2024
+448,Universität Bayreuth,448.0,34.5,75,2024
+449,Iowa State University,449.0,34.4,148,2024
+450,Kazan Federal University,450.0,34.3,38,2024
+451,"Universidade Estadual Paulista ""Júlio de Mesquita Filho"" (UNESP)",450.0,34.3,161,2024
+452,Johannes Gutenberg Universität Mainz,452.0,34.2,75,2024
+453,Shenzhen University,452.0,34.2,15,2024
+454,Stony Brook University,452.0,34.2,148,2024
+455,University of Cyprus,452.0,34.2,213,2024
+456,Amirkabir University of Technology,456.0,34.1,103,2024
+457,University of Essex,456.0,34.1,189,2024
+458,Colorado State University,458.0,34.0,148,2024
+459,Universidad Nacional de La Plata,458.0,34.0,109,2024
+460,"University of California, Santa Cruz",458.0,34.0,148,2024
+461,Jordan University of Science & Technology,461.0,33.9,115,2024
+462,Novosibirsk State University,461.0,33.9,38,2024
+463,Royal Holloway University of London,461.0,33.9,189,2024
+464,Università Vita-Salute San Raffaele,461.0,33.9,3,2024
+465,Anna University,465.0,33.8,186,2024
+466,Concordia University,465.0,33.8,193,2024
+467,Shanghai University,465.0,33.8,15,2024
+468,University of Kansas,465.0,33.8,148,2024
+469,Ben Gurion University of The Negev,469.0,33.7,74,2024
+470,Laval University,469.0,33.7,193,2024
+471,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),469.0,33.7,100,2024
+472,Universidad de Sevilla,469.0,33.7,182,2024
+473,Jilin University,473.0,33.5,15,2024
+474,Johannes Kepler University Linz,473.0,33.5,169,2024
+475,Pusan National University,473.0,33.5,176,2024
+476,Università della Svizzera Italiana,473.0,33.5,156,2024
+477,Moscow Institute of Physics and Technology State University,477.0,33.4,38,2024
+478,Universität Potsdam,477.0,33.4,75,2024
+479,Chung-Ang University,479.0,33.3,176,2024
+480,Hiroshima University,480.0,33.2,42,2024
+481,University of Science and Technology Beijing,480.0,33.2,15,2024
+482,Dalian University of Technology,482.0,33.0,15,2024
+483,Duy Tan University,482.0,33.0,136,2024
+484,Kobe University,482.0,33.0,42,2024
+485,Aristotle University of Thessaloniki,485.0,32.9,135,2024
+486,University of Trento,485.0,32.9,3,2024
+487,Edith Cowan University,487.0,32.8,5,2024
+488,Technische Universität Bergakademie Freiberg,487.0,32.8,75,2024
+489,Warsaw University of Technology,487.0,32.8,114,2024
+490,Universidad de Santiago de Chile - USACH,490.0,32.7,71,2024
+491,Central South University,491.0,32.6,15,2024
+492,Imam Abdulrahman Bin Faisal University (formerly University of Dammam),491.0,32.6,73,2024
+493,Universiti Utara Malaysia (UUM),491.0,32.6,212,2024
+494,Université de Bordeaux,494.0,32.5,179,2024
+495,University of Canberra,494.0,32.5,5,2024
+496,Iran University of Science and Technology,496.0,32.4,103,2024
+497,Justus-Liebig-Universität Gießen,496.0,32.4,75,2024
+498,University of Jyväskylä,498.0,32.3,27,2024
+499,Central Queensland University Australia (CQUniversity),499.0,32.2,5,2024
+500,Northwestern Polytechnical University,499.0,32.2,15,2024
+501,Tomsk State University,499.0,32.2,38,2024
+502,Universidad de Costa Rica,499.0,32.2,35,2024
+503,Shoolini University of Biotechnology and Management Sciences,503.0,32.1,186,2024
+504,China Agricultural University,504.0,32.0,15,2024
+505,Chongqing University,504.0,32.0,15,2024
+506,Ewha Womans University,504.0,32.0,176,2024
+507,Hunan University,504.0,32.0,15,2024
+508,University of Guelph,504.0,32.0,193,2024
+509,China Medical University,509.0,31.9,183,2024
+510,Institut Teknologi Sepuluh Nopember (ITS),509.0,31.9,196,2024
+511,INTI International University,509.0,31.9,212,2024
+512,Ateneo de Manila University,511.0,31.6,200,2024
+513,Singapore Management University,511.0,31.6,154,2024
+514,SOAS University of London,511.0,31.6,189,2024
+515,University of Bradford,511.0,31.6,189,2024
+516,Lebanese University,515.0,31.5,51,2024
+517,Universitas Padjadjaran (UNPAD),515.0,31.5,196,2024
+518,Pontificia Universidad Católica Argentina Santa María de los Buenos Aires - UCA,517.0,31.4,109,2024
+519,University of Stirling,517.0,31.4,189,2024
+520,Kyungpook National University,519.0,31.3,176,2024
+521,Singapore University of Technology and Design,519.0,31.3,154,2024
+522,Universidad Austral - Argentina,519.0,31.3,109,2024
+523,University of Electronic Science and Technology of China,519.0,31.3,15,2024
+524,Ural Federal University,519.0,31.3,38,2024
+525,University of Huddersfield,524.0,31.2,189,2024
+526,The University of Georgia,525.0,31.1,148,2024
+527,Boston College,526.0,30.9,148,2024
+528,Chiang Mai University,526.0,30.9,183,2024
+529,University of Hull,526.0,30.9,189,2024
+530,University of Salamanca,526.0,30.9,182,2024
+531,The Education University of Hong Kong,530.0,30.8,15,2024
+532,Universität Bremen,530.0,30.8,75,2024
+533,University of Genoa,530.0,30.8,3,2024
+534,University of Iowa,530.0,30.8,148,2024
+535,University of Connecticut,534.0,30.7,148,2024
+536,King Khalid University,535.0,30.6,73,2024
+537,Lebanese American University,535.0,30.6,51,2024
+538,Prince Sultan University,535.0,30.6,73,2024
+539,Universität Leipzig,535.0,30.6,75,2024
+540,University of Ljubljana,535.0,30.6,107,2024
+541,Jinan University (China),540.0,30.5,15,2024
+542,University of Utah,540.0,30.5,148,2024
+543,Ain Shams University,542.0,30.3,95,2024
+544,Universiti Teknologi MARA - UiTM,542.0,30.3,212,2024
+545,University of Milano-Bicocca,542.0,30.3,3,2024
+546,University of the Punjab,542.0,30.3,140,2024
+547,Universität Ulm,546.0,30.2,75,2024
+548,University of Hawaii at Mañoa,546.0,30.2,148,2024
+549,University of Windsor,546.0,30.2,193,2024
+550,Florida State University,549.0,30.1,148,2024
+551,Northumbria University at Newcastle,550.0,30.0,189,2024
+552,Thammasat University,551.0,29.9,183,2024
+553,Universiti Tenaga Nasional (UNITEN),551.0,29.9,212,2024
+554,Hitotsubashi University,553.0,29.8,42,2024
+555,University of Delaware,553.0,29.8,148,2024
+556,Lahore University of Management Sciences (LUMS),555.0,29.7,140,2024
+557,Indian Institute of Technology Indore,556.0,29.6,186,2024
+558,University of Houston,556.0,29.6,148,2024
+559,Al Ain University,558.0,29.5,39,2024
+560,Coventry University,558.0,29.5,189,2024
+561,Jawaharlal Nehru University,558.0,29.5,186,2024
+562,Sogang University,558.0,29.5,176,2024
+563,University of Kwazulu-Natal,558.0,29.5,159,2024
+564,Ajou University,563.0,29.4,176,2024
+565,American University of the Middle East,563.0,29.4,199,2024
+566,University of Debrecen,563.0,29.4,202,2024
+567,Bangor University,566.0,29.3,189,2024
+568,Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi),566.0,29.3,186,2024
+569,Renmin (People’s) University of China,566.0,29.3,15,2024
+570,Savitribai Phule Pune University,566.0,29.3,186,2024
+571,University of Minho,566.0,29.3,139,2024
+572,Colorado School of Mines,571.0,29.2,148,2024
+573,Hacettepe University,571.0,29.2,12,2024
+574,Isfahan University of Technology,571.0,29.2,103,2024
+575,Pontificia Universidade Católica do Rio de Janeiro (PUC - Rio),571.0,29.2,161,2024
+576,Brno University of Technology,575.0,29.1,168,2024
+577,Chandigarh University,575.0,29.1,186,2024
+578,Universität Jena,575.0,29.1,75,2024
+579,Universidad Adolfo Ibáñez,578.0,29.0,71,2024
+580,Universiti Teknologi Brunei,578.0,29.0,126,2024
+581,University of Tabriz,578.0,29.0,103,2024
+582,Universidad Pontificia Comillas,581.0,28.9,182,2024
+583,Florida International University,582.0,28.8,148,2024
+584,University of Iceland,582.0,28.8,106,2024
+585,Charles Darwin University,584.0,28.7,5,2024
+586,Eotvos Lorand University,584.0,28.7,202,2024
+587,University of Dhaka,584.0,28.7,29,2024
+588,American University,587.0,28.6,148,2024
+589,National Central University,587.0,28.6,183,2024
+590,Université Claude Bernard Lyon 1,587.0,28.6,179,2024
+591,Université Paul Sabatier Toulouse III,587.0,28.6,179,2024
+592,American University of Ras Al Khaimah ( AURAK ),591.0,28.5,39,2024
+593,Bond University,591.0,28.5,5,2024
+594,Illinois Institute of Technology,591.0,28.5,148,2024
+595,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),591.0,28.5,38,2024
+596,Universidade Federal de Minas Gerais,595.0,28.4,161,2024
+597,Zayed University,595.0,28.4,39,2024
+598,Asia Pacific University of Technology and Innovation (APU) Malaysia,597.0,28.3,212,2024
+599,Hasselt University,597.0,28.3,58,2024
+600,Management and Science University - MSU Malaysia,597.0,28.3,212,2024
+601,Taipei Medical University,597.0,28.3,183,2024
+602,Tulane University,597.0,28.3,148,2024
+603,University of Szeged,597.0,28.3,202,2024
+604,University of Texas at Dallas,597.0,28.3,148,2024
+605,Canadian University of Dubai,604.0,28.2,39,2024
+606,National Chengchi University,604.0,28.2,183,2024
+607,University of Eastern Finland,604.0,28.2,27,2024
+608,University of Siena,607.0,28.0,3,2024
+609,University of Tennessee,607.0,28.0,148,2024
+610,Nottingham Trent University,609.0,27.9,189,2024
+611,Peter the Great St.Petersburg Polytechnic University,609.0,27.9,38,2024
+612,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),609.0,27.9,212,2024
+613,University of Ulster,609.0,27.9,189,2024
+614,Applied Science University - Bahrain,613.0,27.8,147,2024
+615,City University of New York,613.0,27.8,148,2024
+616,International Islamic University Malaysia (IIUM),613.0,27.8,212,2024
+617,Universidad de Concepción,613.0,27.8,71,2024
+618,University of Plymouth,613.0,27.8,189,2024
+619,Christian-Albrechts-Universität zu Kiel,618.0,27.7,75,2024
+620,Dongguk University,618.0,27.7,176,2024
+621,Saint Joseph University of Beirut (USJ),618.0,27.7,51,2024
+622,Zhengzhou University,618.0,27.7,15,2024
+623,Umm Al-Qura University,622.0,27.6,73,2024
+624,University of New Brunswick,622.0,27.6,193,2024
+625,Diponegoro University,624.0,27.5,196,2024
+626,Oregon State University,624.0,27.5,148,2024
+627,Universidad del Pais Vasco,624.0,27.5,182,2024
+628,Yeshiva University,624.0,27.5,148,2024
+629,Istanbul University,628.0,27.4,12,2024
+630,Kazakh National Pedagogical University Abai,628.0,27.4,104,2024
+631,Missouri University of Science and Technology,628.0,27.4,148,2024
+632,National Chung Hsing University,628.0,27.4,183,2024
+633,Universidade de Santiago de Compostela,628.0,27.4,182,2024
+634,University of Crete,628.0,27.4,135,2024
+635,University of South Carolina,628.0,27.4,148,2024
+636,Tallinn University of Technology,635.0,27.2,153,2024
+637,Universität des Saarlandes,635.0,27.2,75,2024
+638,University of Portsmouth,635.0,27.2,189,2024
+639,"Lincoln University College, Malaysia",638.0,27.1,212,2024
+640,Southern Cross University,638.0,27.1,5,2024
+641,Universidad de Zaragoza,638.0,27.1,182,2024
+642,"University of Chemistry and Technology, Prague",638.0,27.1,168,2024
+643,University of Fribourg,642.0,27.0,156,2024
+644,Abo Akademi University,643.0,26.9,27,2024
+645,Inha University,643.0,26.9,176,2024
+646,Libera Universita' di Bolzano,643.0,26.9,3,2024
+647,Manchester Metropolitan University,643.0,26.9,189,2024
+648,University of Manitoba,643.0,26.9,193,2024
+649,King Faisal University,648.0,26.8,73,2024
+650,"University of Tromso, The Arctic University of Norway",648.0,26.8,69,2024
+651,MGIMO University,650.0,26.7,38,2024
+652,Paris Lodron University of Salzburg,650.0,26.7,169,2024
+653,Universidad de la República (UdelaR),650.0,26.7,157,2024
+654,University of Brescia,650.0,26.7,3,2024
+655,China University of Mining and Technology,654.0,26.6,15,2024
+656,De La Salle University,654.0,26.6,200,2024
+657,Konkuk University,654.0,26.6,176,2024
+658,Université de Lille,654.0,26.6,179,2024
+659,"University of Agriculture, Faisalabad",654.0,26.6,140,2024
+660,University of South Florida,654.0,26.6,148,2024
+661,Bar-Ilan University,660.0,26.5,74,2024
+662,Ca' Foscari University of Venice,660.0,26.5,3,2024
+663,"Kingston University, London",660.0,26.5,189,2024
+664,Memorial University of Newfoundland,660.0,26.5,193,2024
+665,COMSATS University Islamabad,664.0,26.4,140,2024
+666,Indian Institute of Technology Hyderabad (IITH),664.0,26.4,186,2024
+667,University of Mumbai,664.0,26.4,186,2024
+668,University of Oklahoma,664.0,26.4,148,2024
+669,Birla Institute of Technology and Science,668.0,26.3,186,2024
+670,Chang Gung University,668.0,26.3,183,2024
+671,Karl-Franzens-Universität Graz,668.0,26.3,169,2024
+672,Lehigh University,668.0,26.3,148,2024
+673,Palacký University in Olomouc,668.0,26.3,168,2024
+674,East China University of Science and Technology,673.0,26.2,15,2024
+675,Stevens Institute of Technology,673.0,26.2,148,2024
+676,Technische Universität Dortmund,673.0,26.2,75,2024
+677,Beirut Arab University,676.0,26.1,51,2024
+678,Jadavpur University,676.0,26.1,186,2024
+679,American University in Dubai,678.0,26.0,39,2024
+680,University of Haifa,678.0,26.0,74,2024
+681,HUFS - Hankuk (Korea) University of Foreign Studies,680.0,25.9,176,2024
+682,Nanjing University of Aeronautics and Astronautics,680.0,25.9,15,2024
+683,Ritsumeikan University,680.0,25.9,42,2024
+684,University of Brawijaya,680.0,25.9,196,2024
+685,Comenius University Bratislava,684.0,25.8,66,2024
+686,Ton Duc Thang University,684.0,25.8,136,2024
+687,China University of Petroleum,686.0,25.7,15,2024
+688,Cyprus University of Technology,686.0,25.7,213,2024
+689,Baku State University,688.0,25.6,110,2024
+690,Tomsk Polytechnic University,688.0,25.6,38,2024
+691,Université Côte d’Azur,688.0,25.6,179,2024
+692,Eastern Mediterranean University,691.0,25.4,213,2024
+693,Universidade Federal do Rio Grande Do Sul,691.0,25.4,161,2024
+694,Universität Regensburg,691.0,25.4,75,2024
+695,"Vellore Institute of Technology (VIT), Vellore, India",691.0,25.4,186,2024
+696,Rensselaer Polytechnic Institute,695.0,25.3,148,2024
+697,Symbiosis International (Deemed University),696.0,25.2,186,2024
+698,TUHH Hamburg University of Technology,696.0,25.2,75,2024
+699,Ankara Üniversitesi,697.0,25.1,12,2024
+700,Beijing University of Chemical Technology,697.0,25.1,15,2024
+701,Kazakh National Agrarian University,697.0,25.1,104,2024
+702,Tokyo Medical and Dental University,697.0,25.1,42,2024
+703,Universidad de Alcalá,697.0,25.1,182,2024
+704,University of Klagenfurt,697.0,25.1,169,2024
+705,"University of Missouri, Columbia",697.0,25.1,148,2024

@@ -1,0 +1,51 @@
+institution_id,institution_name,country_id,institution_type,city,is_capital_city
+I4210108322,National Institute for Fusion Science,42,facility,Toki,False
+I1294671590,Centre National de la Recherche Scientifique,179,other,Paris,True
+I19820366,Chinese Academy of Sciences,15,other,Beijing,True
+I27837315,University of Michigan–Ann Arbor,148,education,Ann Arbor,False
+I136199984,Harvard University,148,education,Cambridge,False
+I40120149,University of Oxford,189,education,Oxford,False
+I45129253,University College London,189,education,London,True
+I185261750,University of Toronto,193,education,Toronto,False
+I142606810,Pacific Northwest National Laboratory,148,facility,Richland,False
+I201448701,University of Washington,148,education,Seattle,False
+I97018004,Stanford University,148,education,Stanford,False
+I74801974,The University of Tokyo,42,education,Tokyo,True
+I7935750,Leibniz Institute DSMZ – German Collection of Microorganisms and Cell Cultures,75,facility,Braunschweig,False
+I145311948,Johns Hopkins University,148,education,Baltimore,False
+I17974374,Universidade de São Paulo,161,education,São Paulo,False
+I154526488,Inserm,179,other,Paris,True
+I205783295,Cornell University,148,education,Ithaca,False
+I241749,University of Cambridge,189,education,Cambridge,False
+I2801280572,Environmental Molecular Sciences Laboratory,148,facility,Richland,False
+I95457486,"University of California, Berkeley",148,education,Berkeley,False
+I161318765,"University of California, Los Angeles",148,education,Los Angeles,False
+I32971472,Yale University,148,education,New Haven,False
+I78577930,Columbia University,148,education,New York,False
+I20231570,Peking University,15,education,Beijing,True
+I47508984,Imperial College London,189,education,London,True
+I189158943,University of Milan,3,education,Milan,False
+I4210165038,University of Chinese Academy of Sciences,15,education,Beijing,True
+I39804081,Sorbonne Université,179,education,Paris,True
+I99065089,Tsinghua University,15,education,Beijing,True
+I52357470,The Ohio State University,148,education,Columbus,False
+I135310074,University of Wisconsin–Madison,148,education,Madison,False
+I76130692,Zhejiang University,15,education,Hangzhou,False
+I183067930,Shanghai Jiao Tong University,15,education,Shanghai,False
+I22299242,Kyoto University,42,education,Kyoto,False
+I79576946,University of Pennsylvania,148,education,Philadelphia,False
+I86519309,The University of Texas at Austin,148,education,Austin,False
+I141945490,University of British Columbia,193,education,Vancouver,False
+I33213144,University of Florida,148,education,Gainesville,False
+I36258959,"University of California, San Diego",148,education,San Diego,False
+I63966007,Massachusetts Institute of Technology,148,education,Cambridge,False
+I165779595,University of Melbourne,5,education,Melbourne,False
+I204730241,Université Paris Cité,179,education,Paris,True
+I114027177,University of North Carolina at Chapel Hill,148,education,Chapel Hill,False
+I129604602,University of Sydney,5,education,Sydney,False
+I130769515,Pennsylvania State University,148,education,State College,False
+I130238516,University of Minnesota,148,education,Minneapolis,False
+I157725225,University of Illinois Urbana-Champaign,148,education,Urbana,False
+I223822909,Heidelberg University,75,education,Heidelberg,False
+I28407311,University of Manchester,189,education,Manchester,False
+I99464096,KU Leuven,58,education,Leuven,False

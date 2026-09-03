@@ -1,0 +1,13 @@
+speciality_id,speciality_name,field_code
+1,Generic programmes and qualifications,F00
+2,Education,F01
+3,Arts and humanities,F02
+4,"Social sciences, journalism and information",F03
+5,"Business, administration and law",F04
+6,"Natural sciences, mathematics and statistics",F05
+7,Information and Communication Technologies,F06
+8,"Engineering, manufacturing and construction",F07
+9,"Agriculture, forestry, fisheries and veterinary",F08
+10,Health and welfare,F09
+11,Services,F10
+12,"Science, technology, engineering and mathematics",F05T07

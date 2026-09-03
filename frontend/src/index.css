@@ -1,0 +1,197 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* BI Dashboard Design System */
+
+@layer base {
+  :root {
+    --background: 220 20% 97%;
+    --foreground: 220 30% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 220 30% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 30% 15%;
+
+    --primary: 217 91% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 220 14% 92%;
+    --secondary-foreground: 220 30% 25%;
+
+    --muted: 220 14% 94%;
+    --muted-foreground: 220 10% 45%;
+
+    --accent: 167 72% 42%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 14% 88%;
+    --input: 220 14% 88%;
+    --ring: 217 91% 50%;
+
+    --radius: 0.625rem;
+
+    /* BI-specific colors */
+    --kpi-expenditure: 217 91% 50%;
+    --kpi-enrollment: 167 72% 42%;
+    --kpi-research: 262 83% 58%;
+    --kpi-tertiary: 24 95% 53%;
+
+    --chart-1: 217 91% 50%;
+    --chart-2: 167 72% 42%;
+    --chart-3: 262 83% 58%;
+    --chart-4: 24 95% 53%;
+    --chart-5: 340 75% 55%;
+
+    --sidebar-background: 220 25% 12%;
+    --sidebar-foreground: 220 14% 90%;
+    --sidebar-primary: 217 91% 60%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 20% 18%;
+    --sidebar-accent-foreground: 220 14% 90%;
+    --sidebar-border: 220 20% 20%;
+    --sidebar-ring: 217 91% 60%;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(217 91% 50%), hsl(217 91% 60%));
+    --gradient-accent: linear-gradient(135deg, hsl(167 72% 42%), hsl(167 72% 52%));
+    --gradient-expenditure: linear-gradient(135deg, hsl(217 91% 50%), hsl(230 91% 60%));
+    --gradient-enrollment: linear-gradient(135deg, hsl(167 72% 42%), hsl(180 72% 50%));
+    --gradient-research: linear-gradient(135deg, hsl(262 83% 58%), hsl(280 83% 65%));
+    --gradient-tertiary: linear-gradient(135deg, hsl(24 95% 53%), hsl(40 95% 58%));
+  }
+
+  .dark {
+    --background: 220 25% 8%;
+    --foreground: 220 14% 95%;
+
+    --card: 220 25% 12%;
+    --card-foreground: 220 14% 95%;
+
+    --popover: 220 25% 12%;
+    --popover-foreground: 220 14% 95%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 220 25% 8%;
+
+    --secondary: 220 20% 18%;
+    --secondary-foreground: 220 14% 90%;
+
+    --muted: 220 20% 15%;
+    --muted-foreground: 220 10% 55%;
+
+    --accent: 167 72% 50%;
+    --accent-foreground: 220 25% 8%;
+
+    --destructive: 0 72% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 20% 18%;
+    --input: 220 20% 18%;
+    --ring: 217 91% 60%;
+
+    --sidebar-background: 220 25% 6%;
+    --sidebar-foreground: 220 14% 90%;
+    --sidebar-primary: 217 91% 60%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 20% 12%;
+    --sidebar-accent-foreground: 220 14% 90%;
+    --sidebar-border: 220 20% 12%;
+    --sidebar-ring: 217 91% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+
+  .mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+@layer components {
+  .kpi-card {
+    @apply bg-card rounded-xl border shadow-sm transition-all duration-200 hover:shadow-md;
+  }
+
+  .kpi-value {
+    @apply text-3xl font-bold tracking-tight mono;
+  }
+
+  .kpi-label {
+    @apply text-sm font-medium text-muted-foreground uppercase tracking-wider;
+  }
+
+  .chart-container {
+    @apply bg-card rounded-xl border p-6 shadow-sm;
+  }
+
+  .nav-item {
+    @apply flex items-center gap-3 px-4 py-2.5 rounded-lg text-sm font-medium transition-all duration-200;
+  }
+
+  .nav-item-active {
+    @apply bg-sidebar-accent text-sidebar-primary;
+  }
+
+  .gradient-expenditure {
+    background: var(--gradient-expenditure);
+  }
+
+  .gradient-enrollment {
+    background: var(--gradient-enrollment);
+  }
+
+  .gradient-research {
+    background: var(--gradient-research);
+  }
+
+  .gradient-tertiary {
+    background: var(--gradient-tertiary);
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.4s ease-out forwards;
+  }
+
+  .animate-pulse-subtle {
+    animation: pulseSoft 2s ease-in-out infinite;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulseSoft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.85; }
+}

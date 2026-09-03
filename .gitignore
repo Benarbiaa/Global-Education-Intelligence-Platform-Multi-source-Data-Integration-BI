@@ -1,0 +1,8 @@
+etl/config/config.yaml
+etl/**/*.log
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local

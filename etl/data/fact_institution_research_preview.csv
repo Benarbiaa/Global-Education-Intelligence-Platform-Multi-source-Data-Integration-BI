@@ -1,0 +1,101 @@
+research_id,institution_id,total_citations,international_collaboration,top_paper_title,top_paper_doi
+1,I4210108322,801215,2,Radiation Resistant Camera System for Monitoring Deuterium Plasma Discharges in the Large Helical Device,https://doi.org/10.1585/pfr.15.2402039
+2,I4210108322,1873,4,Zonal flows in plasma—a review,https://doi.org/10.1088/0741-3335/47/5/r01
+3,I4210108322,838,23,Suppression of Large Edge-Localized Modes in High-Confinement DIII-D Plasmas with a Stochastic Magnetic Boundary,https://doi.org/10.1103/physrevlett.92.235003
+4,I4210108322,799,30,Chapter 1: Overview and summary,https://doi.org/10.1088/0029-5515/47/6/s01
+5,I4210108322,724,2,ENERGY DEPENDENCE OF ION-INDUCED SPUTTERING YIELDS FROM MONATOMIC SOLIDS AT NORMAL INCIDENCE,https://doi.org/10.1006/adnd.1996.0005
+6,I1294671590,27771,33,QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials,https://doi.org/10.1088/0953-8984/21/39/395502
+7,I1294671590,18917,2,Building better batteries,https://doi.org/10.1038/451652a
+8,I1294671590,18230,6,New Algorithms and Methods to Estimate Maximum-Likelihood Phylogenies: Assessing the Performance of PhyML 3.0,https://doi.org/10.1093/sysbio/syq010
+9,I1294671590,17074,10,Scalable molecular dynamics with NAMD,https://doi.org/10.1002/jcc.20289
+10,I1294671590,16774,33,Measurements of Ω and Λ from 42 High‐Redshift Supernovae,https://doi.org/10.1086/307221
+11,I19820366,23003,29,A pneumonia outbreak associated with a new coronavirus of probable bat origin,https://doi.org/10.1038/s41586-020-2012-7
+12,I19820366,22490,14,"Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",https://doi.org/10.1016/s0140-6736(20)30211-7
+13,I19820366,21603,100,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9
+14,I19820366,12445,35,Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding,https://doi.org/10.1016/s0140-6736(20)30251-8
+15,I19820366,12106,5,Squeeze-and-Excitation Networks,https://doi.org/10.1109/tpami.2019.2913372
+16,I27837315,62557,2,Evaluating Structural Equation Models with Unobservable Variables and Measurement Error,https://doi.org/10.1177/002224378101800104
+17,I27837315,60284,1,"Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology",https://doi.org/10.2307/249008
+18,I27837315,59626,2,Evaluating Structural Equation Models with Unobservable Variables and Measurement Error,https://doi.org/10.2307/3151312
+19,I27837315,45825,9,Going deeper with convolutions,https://doi.org/10.1109/cvpr.2015.7298594
+20,I27837315,39098,12,ImageNet Large Scale Visual Recognition Challenge,https://doi.org/10.1007/s11263-015-0816-y
+21,I136199984,79703,26,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71
+22,I136199984,49018,3,Maximum Likelihood from Incomplete Data Via the <i>EM</i> Algorithm,https://doi.org/10.1111/j.2517-6161.1977.tb01600.x
+23,I136199984,40156,7,limma powers differential expression analyses for RNA-sequencing and microarray studies,https://doi.org/10.1093/nar/gkv007
+24,I136199984,38291,2,Meta-analysis in clinical trials,https://doi.org/10.1016/0197-2456(86)90046-2
+25,I136199984,30056,12,Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathol,https://doi.org/10.1038/gim.2015.30
+26,I40120149,82139,5,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement,https://doi.org/10.1136/bmj.b2535
+27,I40120149,75387,2,Very Deep Convolutional Networks for Large-Scale Image Recognition,https://doi.org/10.48550/arxiv.1409.1556
+28,I40120149,60983,5,Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement,https://doi.org/10.1371/journal.pmed.1000097
+29,I40120149,45120,5,Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement.,
+30,I40120149,33536,3,Inference of Population Structure Using Multilocus Genotype Data,https://doi.org/10.1093/genetics/155.2.945
+31,I45129253,79703,26,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71
+32,I45129253,29857,5,Rethinking the Inception Architecture for Computer Vision,https://doi.org/10.1109/cvpr.2016.308
+33,I45129253,26771,28,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898
+34,I45129253,25762,19,The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3),https://doi.org/10.1001/jama.2016.0287
+35,I45129253,21056,5,"DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",https://doi.org/10.1109/tpami.2017.2699184
+36,I185261750,84438,2,Adam: A Method for Stochastic Optimization,https://doi.org/10.48550/arxiv.1412.6980
+37,I185261750,79703,26,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71
+38,I185261750,76808,3,Deep learning,https://doi.org/10.1038/nature14539
+39,I185261750,75536,3,ImageNet classification with deep convolutional neural networks,https://doi.org/10.1145/3065386
+40,I185261750,49802,1,Regression Shrinkage and Selection Via the Lasso,https://doi.org/10.1111/j.2517-6161.1996.tb02080.x
+41,I142606810,21603,100,"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",https://doi.org/10.1038/s41587-019-0209-9
+42,I142606810,15228,3,Electron affinities of the first-row atoms revisited. Systematic basis sets and wave functions,https://doi.org/10.1063/1.462569
+43,I142606810,7847,55,The HITRAN2016 molecular spectroscopic database,https://doi.org/10.1016/j.jqsrt.2017.06.038
+44,I142606810,7804,15,The representative concentration pathways: an overview,https://doi.org/10.1007/s10584-011-0148-z
+45,I142606810,6551,19,The next generation of scenarios for climate change research and assessment,https://doi.org/10.1038/nature08823
+46,I201448701,63071,19,Scikit-learn: Machine Learning in Python,https://doi.org/10.48550/arxiv.1201.0490
+47,I201448701,42428,2,XGBoost,https://doi.org/10.1145/2939672.2939785
+48,I201448701,41629,2,Three Approaches to Qualitative Content Analysis,https://doi.org/10.1177/1049732305276687
+49,I201448701,40858,1,CONFIDENCE LIMITS ON PHYLOGENIES: AN APPROACH USING THE BOOTSTRAP,https://doi.org/10.1111/j.1558-5646.1985.tb00420.x
+50,I201448701,34016,100,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2
+51,I97018004,42992,20,Gene Ontology: tool for the unification of biology,https://doi.org/10.1038/75556
+52,I97018004,39098,12,ImageNet Large Scale Visual Recognition Challenge,https://doi.org/10.1007/s11263-015-0816-y
+53,I97018004,37437,2,Elements of Information Theory,https://doi.org/10.1002/0471200611
+54,I97018004,35452,1,Self-efficacy: Toward a unifying theory of behavioral change.,https://doi.org/10.1037//0033-295x.84.2.191
+55,I97018004,33665,2,The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields,https://doi.org/10.2307/2095101
+56,I74801974,32868,2,Electrochemical Photolysis of Water at a Semiconductor Electrode,https://doi.org/10.1038/238037a0
+57,I74801974,21797,4,Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells,https://doi.org/10.1021/ja809598r
+58,I74801974,12820,100,<i>Planck</i> 2018 results,https://doi.org/10.1051/0004-6361/201833910
+59,I74801974,12027,8,A metal-free polymeric photocatalyst for hydrogen production from water under visible light,https://doi.org/10.1038/nmat2317
+60,I74801974,11871,100,"A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease ",https://doi.org/10.1016/s0140-6736(12)61766-8
+61,I7935750,6949,2,Taxonomic Note: A Place for DNA-DNA Reassociation and 16S rRNA Sequence Analysis in the Present Species Definition in Bacteriology,https://doi.org/10.1099/00207713-44-4-846
+62,I7935750,6347,4,Genome sequence-based species delimitation with confidence intervals and improved distance functions,https://doi.org/10.1186/1471-2105-14-60
+63,I7935750,2853,2,TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy,https://doi.org/10.1038/s41467-019-10210-3
+64,I7935750,2044,3,Determination of microbial diversity in environmental samples: pitfalls of PCR-based rRNA analysis,https://doi.org/10.1111/j.1574-6976.1997.tb00351.x
+65,I7935750,1836,5,List of Prokaryotic names with Standing in Nomenclature (LPSN) moves to the DSMZ,https://doi.org/10.1099/ijsem.0.004332
+66,I145311948,79703,26,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71
+67,I145311948,57464,2,Fast gapped-read alignment with Bowtie 2,https://doi.org/10.1038/nmeth.1923
+68,I145311948,37577,1,The Strength of Weak Ties,https://doi.org/10.1086/225469
+69,I145311948,26771,28,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898
+70,I145311948,25149,2,A technique for radiolabeling DNA restriction endonuclease fragments to high specific activity,https://doi.org/10.1016/0003-2697(83)90418-9
+71,I17974374,12715,24,Sorafenib in Advanced Hepatocellular Carcinoma,https://doi.org/10.1056/nejmoa0708857
+72,I17974374,11894,100,"Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013",https://doi.org/10.1016/s0140-6736(14)60460-8
+73,I17974374,10483,100,Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines,https://doi.org/10.1080/20013078.2018.1535750
+74,I17974374,8906,27,Novel methods improve prediction of species’ distributions from occurrence data,https://doi.org/10.1111/j.2006.0906-7590.04596.x
+75,I17974374,8684,4,P<scp>ACKMOL</scp>: A package for building initial configurations for molecular dynamics simulations,https://doi.org/10.1002/jcc.21224
+76,I154526488,79703,26,The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,https://doi.org/10.1136/bmj.n71
+77,I154526488,26771,28,RoB 2: a revised tool for assessing risk of bias in randomised trials,https://doi.org/10.1136/bmj.l4898
+78,I154526488,17309,18,Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults: An Update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging,https://doi.org/10.1016/j.echo.2014.10.003
+79,I154526488,17012,35,ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions,https://doi.org/10.1136/bmj.i4919
+80,I154526488,16394,8,Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain,https://doi.org/10.1006/nimg.2001.0978
+81,I205783295,85514,3,“Mini-mental state”,https://doi.org/10.1016/0022-3956(75)90026-6
+82,I205783295,42564,4,Densely Connected Convolutional Networks,https://doi.org/10.1109/cvpr.2017.243
+83,I205783295,42146,2,Collective dynamics of ‘small-world’ networks,https://doi.org/10.1038/30918
+84,I205783295,40165,8,Microsoft COCO: Common Objects in Context,https://doi.org/10.1007/978-3-319-10602-1_48
+85,I205783295,34993,27,QIIME allows analysis of high-throughput community sequencing data,https://doi.org/10.1038/nmeth.f.303
+86,I241749,23902,18,<i>PHENIX</i>: a comprehensive Python-based system for macromolecular structure solution,https://doi.org/10.1107/s0907444909052925
+87,I241749,22816,2,A quantitative description of membrane current and its application to conduction and excitation in nerve,https://doi.org/10.1113/jphysiol.1952.sp004764
+88,I241749,21707,1,COPPER ENZYMES IN ISOLATED CHLOROPLASTS. POLYPHENOLOXIDASE IN <i>BETA VULGARIS</i>,https://doi.org/10.1104/pp.24.1.1
+89,I241749,20428,6,<i>Phaser</i>crystallographic software,https://doi.org/10.1107/s0021889807021206
+90,I241749,19589,26,Array programming with NumPy,https://doi.org/10.1038/s41586-020-2649-2
+91,I2801280572,15228,3,Electron affinities of the first-row atoms revisited. Systematic basis sets and wave functions,https://doi.org/10.1063/1.462569
+92,I2801280572,9349,2,Gaussian basis sets for use in correlated molecular calculations. III. The atoms aluminum through argon,https://doi.org/10.1063/1.464303
+93,I2801280572,5633,11,NWChem: A comprehensive and scalable open-source solution for large scale molecular simulations,https://doi.org/10.1016/j.cpc.2010.04.018
+94,I2801280572,2905,2,Gaussian basis sets for use in correlated molecular calculations. V. Core-valence basis sets for boron through neon,https://doi.org/10.1063/1.470645
+95,I2801280572,2860,12,Reversible aqueous zinc/manganese oxide energy storage from conversion reactions,https://doi.org/10.1038/nenergy.2016.39
+96,I95457486,116780,1,Random Forests,https://doi.org/10.1023/a:1010933404324
+97,I95457486,35727,3,Fully convolutional networks for semantic segmentation,https://doi.org/10.1109/cvpr.2015.7298965
+98,I95457486,34016,100,SciPy 1.0: fundamental algorithms for scientific computing in Python,https://doi.org/10.1038/s41592-019-0686-2
+99,I95457486,30821,4,Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation,https://doi.org/10.1109/cvpr.2014.81
+100,I95457486,26881,3,Latent dirichlet allocation,https://doi.org/10.5555/944919.944937
